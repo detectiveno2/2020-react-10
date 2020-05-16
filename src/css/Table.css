@@ -1,0 +1,16 @@
+.Table table {
+  width: 100vw;
+  border-collapse: collapse;
+}
+
+.Table table tr th {
+  padding: 10px 0px;
+}
+
+.Table table tr td {
+  padding: 10px 0px;
+}
+
+.Table table .is-even {
+  background-color: #F2F2F2;
+}
